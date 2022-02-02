@@ -17,7 +17,7 @@ class About extends Component {
     const resumeDownload = this.props.data.resumedownload;
 
     return (
-      <section id="about">
+      <section id="about" style={{background: '#464646'}}>
         <Fade duration={1000}>
           <div className="row">
             <div className="three columns">
@@ -50,8 +50,8 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
+                    <a href={resumeDownload} className="button" style={{background:'#000', color: 'white' }}>
+                      <i className="fa fa-download"></i>Download CV
                     </a>
                   </p>
                 </div>

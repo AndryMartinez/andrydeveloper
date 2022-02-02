@@ -1,22 +1,22 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Andry Martínez",
+    "description":"I am a web developer and I use react to develop pages and mobile apps",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I m learning frontend development for 8 years , currently Im specialized with Javascript tecnlogies ,  I enter in work environment 3 years ago, first I work like freelancer before i had oportunity of work in enterprise level ",
+    "contactmessage":"Contact me , Im available for work",
+    "email": "andrymertinez@gmail.com",
+    "phone": "+50 4128335663",
+    "github":"https://github.com/andrymartinez",
+    "project":"https://www.linkedin.com/in/andrymartinez/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Av main from Ruiz Pineda",
+      "city":"Caracas",
+      "state":"Venezuela",
+      "zip": "1010"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJ0UG1ieRVE9gAAAX63WJDEnADYWvNtwH-ygfGi96iKpNc0gE563aYTJu2Fw5aoaKUonE44ftQ202s6apWEZOLNU6E45IeycpCH-8Sdca1p3cuOapMRD_CTEAmcbFzEuFOcoMQO7-kpD8JOB4lLnE5FJMRKODb086zFb2nScdZsKG7tEj1_7-Nf58qaTvh131f5T37jzet7EmCW4LFAX16AaCh3nYPKQtEIdCv8Cp1jHLs98RHQPhqS1xzlx4oioA-cpz2o5aBeNThZbSr1fOmH0t4Bi5kCW3wOqhLfpacuyjIWAePUikNRaosOIqU5w5UVocJdqRhCVQUoccA5YJMYPn9lfnGQyIHKk_m9uu_5xeimppp9ZByG9_DHb0NrR1iv3p1TKIY52K0kXXX4rCgK1Rq4OBOelwtOTIXVXNSY8OQMSf5eihp6w2r19E__h5XXBR5g_dcadLm2DJvIoBXPHogAh3I10tP5aPhcXxNEh-nf0nbQHLA_Wpts1DVlSTKqdOanxYxjHOGihOF0nfDYc3hIf3yQs0SX0INIqW_bWZqkrvALzh6zjvfcWKRDHUuEvQ&x-ambry-um-filename=Profile.pdf",
     "social":[
       {
         "name":"facebook",
@@ -30,12 +30,12 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/andrymartinez/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/andrydeveloper",
         "className":"fa fa-instagram"
       },
       {
@@ -46,139 +46,63 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"still learning everything all about that tecnologies",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Experimental University from Caracas",
+        "degree":"Inicial de Informatics Engineering",
+        "graduated":"2018-2019",
+        "description":"I did initial career studies"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Akimad (Spain , Madrid)",
+        "title":"Full stack Developer",
+        "years":"March 2021 - December 2021",
+        "description":"I had the oportunity of work on multiple projectos using the tecnologies React and Node both from Javascript"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Fairoz (Lima , Perú)",
+        "title":"React Native Developer",
+        "years":"April 2020 - September 2020",
+        "description":"I was working on the mobile aplication of marketplace for a bussiness of sales"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"80%"
       },
       {
-        "name":"CSS",
+        "name":"React Native",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"NodeJS",
+        "level":"60%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"CSS",
+        "level":"40%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Laravel",
+        "level":"25%"
+      },
+      {
+        "name":"Android Studio",
+        "level":"45%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"AntoMusicWeb",
+        "category":"The website for a renowned artist, composer, musician and producer.",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.antomusicoficial.com"
       }
     ]
   }

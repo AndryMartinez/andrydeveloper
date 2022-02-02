@@ -8,18 +8,23 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
+import Head from "./Components/Head";
+
+
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
       foo: "bar",
-      resumeData: {}
+      resumeData: {
+      }
     };
 
     ReactGA.initialize("UA-110570651-1");
     ReactGA.pageview(window.location.pathname);
   }
+
 
   getResumeData() {
     $.ajax({
@@ -43,6 +48,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Head />
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
