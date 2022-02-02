@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/andrydeveloper/static/css/main.bab0b925.chunk.css",
+    "main.js": "/andrydeveloper/static/js/main.f160bdbf.chunk.js",
+    "main.js.map": "/andrydeveloper/static/js/main.f160bdbf.chunk.js.map",
+    "runtime-main.js": "/andrydeveloper/static/js/runtime-main.0505942c.js",
+    "runtime-main.js.map": "/andrydeveloper/static/js/runtime-main.0505942c.js.map",
+    "static/js/2.3b136a5a.chunk.js": "/andrydeveloper/static/js/2.3b136a5a.chunk.js",
+    "static/js/2.3b136a5a.chunk.js.map": "/andrydeveloper/static/js/2.3b136a5a.chunk.js.map",
+    "static/js/3.db916eb3.chunk.js": "/andrydeveloper/static/js/3.db916eb3.chunk.js",
+    "static/js/3.db916eb3.chunk.js.map": "/andrydeveloper/static/js/3.db916eb3.chunk.js.map",
+    "index.html": "/andrydeveloper/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/andrydeveloper/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.3b136a5a.chunk.js.LICENSE.txt": "/andrydeveloper/static/js/2.3b136a5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0505942c.js",
+    "static/js/2.3b136a5a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.f160bdbf.chunk.js"
+  ]
+}
