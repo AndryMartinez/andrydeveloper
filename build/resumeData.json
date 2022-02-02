@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name":"Andry Martínez",
+    "description":"I am a web developer and I use react to develop pages and mobile apps",
+    "image":"profilepic.jpg",
+    "bio":"I m learning frontend development for 8 years , currently Im specialized with Javascript tecnlogies ,  I enter in work environment 3 years ago, first I work like freelancer before i had oportunity of work in enterprise level ",
+    "contactmessage":"Contact me , Im available for work",
+    "email": "andrymertinez@gmail.com",
+    "phone": "+50 4128335663",
+    "github":"https://github.com/andrymartinez",
+    "project":"https://www.linkedin.com/in/andrymartinez/",
+    "address":{
+      "street":"Av main from Ruiz Pineda",
+      "city":"Caracas",
+      "state":"Venezuela",
+      "zip": "1010"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJ0UG1ieRVE9gAAAX63WJDEnADYWvNtwH-ygfGi96iKpNc0gE563aYTJu2Fw5aoaKUonE44ftQ202s6apWEZOLNU6E45IeycpCH-8Sdca1p3cuOapMRD_CTEAmcbFzEuFOcoMQO7-kpD8JOB4lLnE5FJMRKODb086zFb2nScdZsKG7tEj1_7-Nf58qaTvh131f5T37jzet7EmCW4LFAX16AaCh3nYPKQtEIdCv8Cp1jHLs98RHQPhqS1xzlx4oioA-cpz2o5aBeNThZbSr1fOmH0t4Bi5kCW3wOqhLfpacuyjIWAePUikNRaosOIqU5w5UVocJdqRhCVQUoccA5YJMYPn9lfnGQyIHKk_m9uu_5xeimppp9ZByG9_DHb0NrR1iv3p1TKIY52K0kXXX4rCgK1Rq4OBOelwtOTIXVXNSY8OQMSf5eihp6w2r19E__h5XXBR5g_dcadLm2DJvIoBXPHogAh3I10tP5aPhcXxNEh-nf0nbQHLA_Wpts1DVlSTKqdOanxYxjHOGihOF0nfDYc3hIf3yQs0SX0INIqW_bWZqkrvALzh6zjvfcWKRDHUuEvQ&x-ambry-um-filename=Profile.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrymartinez/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/andrydeveloper",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"still learning everything all about that tecnologies",
+    "education":[
+      {
+        "school":"Experimental University from Caracas",
+        "degree":"Inicial de Informatics Engineering",
+        "graduated":"2018-2019",
+        "description":"I did initial career studies"
+      }
+    ],
+    "work":[
+      {
+        "company":"Akimad (Spain , Madrid)",
+        "title":"Full stack Developer",
+        "years":"March 2021 - December 2021",
+        "description":"I had the oportunity of work on multiple projectos using the tecnologies React and Node both from Javascript"
+      },
+      {
+        "company":"Fairoz (Lima , Perú)",
+        "title":"React Native Developer",
+        "years":"April 2020 - September 2020",
+        "description":"I was working on the mobile aplication of marketplace for a bussiness of sales"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"Laravel",
+        "level":"25%"
+      },
+      {
+        "name":"Android Studio",
+        "level":"45%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"AntoMusicWeb",
+        "category":"The website for a renowned artist, composer, musician and producer.",
+        "image":"01.jpg",
+        "url":"https://www.antomusicoficial.com"
+      }
+    ]
+  }
+}
