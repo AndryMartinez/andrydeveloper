@@ -1,16 +1,16 @@
 {
   "main": {
-    "name":"Andry Martínez",
+    "name":"Andry José Martínez Castro",
     "description":"I am a web developer and I use react to develop pages and mobile apps",
     "image":"profilepic.jpg",
     "bio":"I m learning frontend development for 8 years , currently Im specialized with Javascript tecnlogies ,  I enter in work environment 3 years ago, first I work like freelancer before i had oportunity of work in enterprise level ",
     "contactmessage":"Contact me , Im available for work",
-    "email": "andrymertinez@gmail.com",
-    "phone": "+50 4128335663",
+    "email": "ingresosadpro@gmail.com",
+    "phone": "+58 4128335663",
     "github":"https://github.com/andrymartinez",
     "project":"https://www.linkedin.com/in/andrymartinez/",
     "address":{
-      "street":"Av main from Ruiz Pineda",
+      "street":"Av main from Ruiz Pineda , Sector UD7, Caricuao",
       "city":"Caracas",
       "state":"Venezuela",
       "zip": "1010"
